@@ -44,7 +44,7 @@ comments:
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
 
 # theme color 主题皮肤
@@ -75,6 +75,7 @@ markdown: kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
 
 # RSS
 RSS: false
